@@ -28,6 +28,8 @@ This repository was created with the intention of helping developers regarding h
 
 **Step 7:** Click on the Properties tab, open Static Website Hosting, and click on the Endpoint link. The app should be running on that URL.
 
+- **[√] Working Sample:** http://react-build-test.s3-website-us-east-1.amazonaws.com/
+
 
 ## Heroku - 7-Step Deployment Process:
 
@@ -45,6 +47,7 @@ This repository was created with the intention of helping developers regarding h
 
 **Step 7:** Click on the app you just created in heroku, click `open app`. The app should be running on that URL.
 
+- **[√] Working Sample:** https://react-build-test.herokuapp.com/
 
 ## Contributions
 
